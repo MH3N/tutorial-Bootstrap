@@ -1,9 +1,9 @@
 # tutorial-Bootstrap
-git status وضعیت فایلا
+git status 
 
-git add . اضافه کردن فایل
+git add . 
 
-git commit -m "پیامی برای دلیل این که داریم گیت میکنیم "
+git commit -m ""
 
 uploud
 git push
