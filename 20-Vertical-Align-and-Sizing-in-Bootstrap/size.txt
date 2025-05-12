@@ -1,0 +1,8 @@
+m = margin 
+p = padding
+t = top
+b = bottom
+s = start 
+e = end
+x = left . right
+y = top , bottom
